@@ -6,7 +6,7 @@
 
 
 <!-- HERO: VIDEO -->
-<video src="./assets/github.mp4" autoplay loop muted width="100%" style="border-radius: 10px; margin-top: 15px; margin-bottom: 15px;"></video>
+<img src="./assets/github.gif" width="100%" style="border-radius: 10px; margin-top: 15px; margin-bottom: 15px;" alt="Demo Video" />
 
 
 
