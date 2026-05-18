@@ -8,6 +8,8 @@
 <!-- HERO: VIDEO -->
 <video src="./assets/github.mp4" autoplay loop muted width="100%" style="border-radius: 10px; margin-top: 15px; margin-bottom: 15px;"></video>
 
+
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Vt323&color=FF4500&size=28&center=true&vCenter=true&width=600&height=50&lines=WARNING:+PRODUCTION+IS+DOWN;STATUS:+DEPLOYING+ON+FRIDAY;ROLE:+JUNIOR+CHAOS+ENGINEER;OBJECTIVE:+SURVIVE;" alt="Typing SVG" />
 </a>
