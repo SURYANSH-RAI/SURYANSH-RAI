@@ -71,6 +71,18 @@ suryansh = SuryanshEngineer()
 print(suryansh.objective())
 print(suryansh.my_superpower())
 ```
+
+👨🏻‍💻 **My tech spectrum**
+- 🏅 **Offsec Gauntlet Global Rank Holder** - Mastering offensive security challenges
+- 🧠 **AI Security Researcher** - Exploring AI Vunubs, Deepfakes, Chatbots, and Autonomous Vehicles
+- 🛡️ **API Pentester** - Finding vulnerabilities hidden in architectures
+- 🔧 **Hardware Hacker** - Tinkering with RF, Linux, and physical devices
+- 🌐 **Full-Stack Developer** - Building robust solutions from frontend to backend
+
+🚀 **Fresh from my digital workshop:**
+- 🩸 **Tri-Netra** - My flagship project: A comprehensive secure blood donation platform
+- 🤖 **Babua-Bihari** - An advanced conversational AI Chatbot platform
+
 ---
 
 ## 🛠️ My Tech Arsenal & Superpowers
@@ -163,6 +175,70 @@ print(suryansh.my_superpower())
 
 ---
 
+## 🏆 Featured Projects & Innovations
+
+<div align="left">
+
+### 👁️ **Tri-Netra** 
+```COBOL
+IDENTIFICATION DIVISION.
+       PROGRAM-ID. TRI-NETRA.
+
+       ENVIRONMENT DIVISION.
+
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       01  TN-STATUS          PIC X(15) VALUE "🟢 Stable".
+       01  TN-TECH.
+           05  TECH-1         PIC X(25) VALUE "ML (Auto Encoding, Vision)".
+           05  TECH-2         PIC X(20) VALUE "Anomaly Detection".
+           05  TECH-3         PIC X(10) VALUE "Next.js".
+       01  TN-DESCRIPTION     PIC X(65) VALUE 
+           "Comprehensive web platform for secure and seamless blood donation".
+       01  TN-IMPACT          PIC X(60) VALUE 
+           "🌟 Connecting donors, recipients, and healthcare organizations".
+       01  TN-INNOVATION      PIC X(45) VALUE 
+           "🧠 Intelligent, location-aware matching interface".
+
+       PROCEDURE DIVISION.
+       0000-MAIN-LOGIC.
+           DISPLAY "Saving lives through tech! 👁️"
+           STOP RUN.
+```
+
+### 🤖 **Babua-Bihari**
+```COBOL
+IDENTIFICATION DIVISION.
+       PROGRAM-ID. BABUA-BIHARI-INNOVATION.
+
+       ENVIRONMENT DIVISION.
+
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       01  BB-FRAMEWORKS.
+           05  FW-1           PIC X(10) VALUE "Python".
+           05  FW-2           PIC X(5)  VALUE "AI".
+           05  FW-3           PIC X(12) VALUE "AI Chat Bots".
+       01  BB-CAPABILITY      PIC X(35) 
+           VALUE "Advanced conversational AI platform".
+       01  BB-STATUS          PIC X(15) VALUE "⚠️ Critical".
+       01  BB-OUTPUT          PIC X(45).
+
+       PROCEDURE DIVISION.
+       0000-MAIN-LOGIC.
+           PERFORM 1000-INNOVATE
+           STOP RUN.
+
+       1000-INNOVATE.
+           MOVE "Embracing the Unexplored: Unlocking Bihar's vast, untapped potential for sustainable growth and culture! 💬" 
+             TO BB-OUTPUT
+           DISPLAY BB-OUTPUT.
+```
+
+</div>
+
+---
+
 ## 🌐 Let's meet on same port and do some magicc!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suryansh-RAI)
@@ -186,19 +262,25 @@ print(suryansh.my_superpower())
 
 ---
 
+## 🎨 Unfiltered me..
+
+<div align="left">
+
+### 🎭 **The Real Suryansh:**
+-  I have a deep obsession with breaking things, but my code runs like it has hard encoded sheild!
+-  I wear multiple tech hats daily (Pentester, AI Researcher, Dev) and they fit perfectly
+-  My debugging sessions are powered by curiosity (and and a question "Why" even if everything works fine)
+-  I think in exploits and architectures simultaneously
+-  Completed working on Tri-Netra while my own mind races with threats and risk factors
+-  I can find vulnerabilities in an API faster than I can decide what to binge-watch or what to eat
+
+---
+
 ### 🚀 *"Mastering offensive security, creating robust systems"*
 
 **⭐ If my multi-domain journey inspires you, let's connect and create something amazing together!** 
 
 **🎯 Current Mission: Hunting vulnerabilities as an API Pentester while building secure AI systems! 🧠**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Suryansh-RAI&color=ff69b4&style=flat-square&label=Multi-Role+Tech+Enthusiasts+Visited)
-
-### 📊 **Network & Impact Stats:**
-![GitHub followers](https://img.shields.io/github/followers/Suryansh-RAI?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Suryansh-RAI?style=social)
-
----
 
 **🔮 "In a world of builders, be the hacker who connects all the dots and breaks the un-breakable!"**
 
@@ -215,14 +297,21 @@ print(suryansh.my_superpower())
 
 **Ready to break the future? Let's make it happen! 🚀✨**
 
-</div>
-
 ---
-### 🏙️ The Rebuild (3D City Contributions)
-<!-- Make sure the workflow has run for this image to appear -->
-<img src="./assets/profile-night-rainbow.svg" alt="3D City" width="100%"/>
+
+### 🌟 **This time not Gulzaar sahab but Rai sahab said once:**
+> *"Why limit yourself to building systems when you can also learn how to break them? Every challenge is just a vulnerability waiting to be discovered with the right combination of skills! <br> Think like a Hacker, act like a Hero!!"*
+
+### 🎯 **Fun Challenge for You:**
+*Can you guess which hat I'm wearing just by looking at my latest commit? Hint: I probably switched from securing an endpoint to exploiting one or may became system builder again!* 😄
 
 </div>
+
+### 📊 **Network & Impact Stats:**
+![GitHub followers](https://img.shields.io/github/followers/Suryansh-RAI?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Suryansh-RAI?style=social)
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=Suryansh-RAI&color=ff69b4&style=flat-square&label=Multi-Role+Tech+Enthusiasts+Visited)
 
 ---
 
